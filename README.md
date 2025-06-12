@@ -14,6 +14,3 @@ Easily convert text to binary and binary back to text using this simple Python-b
 - Encoding messages for basic steganography
 - Learning how ASCII and binary representations work
 - Educational demos and programming practice
-
-## 🖥️ Demo
-
